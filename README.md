@@ -1,2 +1,3 @@
 # metadata
-pool and token metadata
+stake pool
+$TOKEN

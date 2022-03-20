@@ -1,5 +1,5 @@
 # metadata
-- Cardano stake pool
+- Cardano stake pool. Ticker: TOKEN
 
 - $TOKEN
 https://dripdropz.io/explore-projects/TOKEN

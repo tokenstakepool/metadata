@@ -1,5 +1,5 @@
 {
-"name": "TokenPool",
+"name": "Token",
 "description": "Cardano Token Stake Pool",
 "ticker": "TOKEN",
 "homepage": "https://token.stakepool.cc",

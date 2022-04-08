@@ -1,7 +1,7 @@
 {
-"name": "Token",
-"description": "Cardano Token Stake Pool",
-"ticker": "TOKEN",
-"homepage": "https://token.stakepool.cc",
-"extended": "https://bit.ly/375ws0z"
+  "name": "Token",
+  "description": "Cardano Token Stake Pool",
+  "ticker": "TOKEN",
+  "homepage": "https://token.stakepool.cc",
+  "extended": "https://github.com/tokenstakepool/metadata/blob/main/pool.json"
 }

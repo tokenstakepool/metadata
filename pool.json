@@ -3,5 +3,5 @@
   "description": "Cardano Token Stake Pool",
   "ticker": "TOKEN",
   "homepage": "https://token.stakepool.cc",
-  "extended": "https://github.com/tokenstakepool/metadata/blob/main/pool.json"
+  "extended": "https://raw.githubusercontent.com/tokenstakepool/metadata/main/pool.json"
 }

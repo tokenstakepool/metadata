@@ -1,6 +1,6 @@
 {
-  "name": "Token",
-  "description": "Cardano Token Stake Pool",
+  "name": "Token Stake Pool",
+  "description": "Fungible TOKEN allocation and distribution at https://dripdropz.io/explore-projects/TOKEN",
   "ticker": "TOKEN",
   "homepage": "https://token.stakepool.cc",
   "extended": "https://raw.githubusercontent.com/tokenstakepool/metadata/main/extPoolMetaData.json"

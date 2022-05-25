@@ -21,7 +21,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Mexican stake pool operator with a degree in Electronics Engineering and MSc. in Computer Science. The operator has participated in artificial intelligence research and development of vision-based navigation systems for autonomous robots using deep neural networks and reinforcement learning. Long-time Bitcoin advocate, 10+ years of experience with cryptocurrencies, and a deep passion for Cardano's Proof-of-Stake (PoS) protocol.",
+            "me": "Mexican stake pool operator with a degree in Electronics Engineering and MSc. in Computer Science. The operator has participated in artificial intelligence research and development of vision-based navigation systems for autonomous robots using convolutional neural networks, reinforcement learning and consensus algorithms. Long-time Bitcoin advocate, 10+ years of experience with cryptocurrencies, and a deep passion for Cardano's Proof-of-Stake (PoS) protocol.",
             "server": "The block producer and relay nodes were deployed in carbon-neutral Google Cloud Platform, choosing regions with the lowest CO2 emissions (Finland and the United States). Impact metrics: https://cloud.google.com/sustainability/region-carbon",
             "company": ""
         }

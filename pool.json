@@ -1,6 +1,6 @@
 {
   "name": "Token Stake Pool",
-  "description": "Fungible TOKEN allocation and distribution at https://dripdropz.io/explore-projects/TOKEN",
+  "description": "Solar-powered nodes with block producer on arm-based M1 Apple Silicon. Fungible token distribution at https://dripdropz.io/explore-projects/TOKEN",
   "ticker": "TOKEN",
   "homepage": "https://token.stakepool.cc",
   "extended": "https://raw.githubusercontent.com/tokenstakepool/metadata/main/extPoolMetaData.json"

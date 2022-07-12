@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "Mexican stake pool operator with a degree in Electronics Engineering and MSc. in Computer Science. The operator has participated in artificial intelligence research and development of vision-based navigation systems for autonomous robots using convolutional neural networks, reinforcement learning and consensus algorithms. Long-time Bitcoin advocate, 11+ years of experience with cryptocurrencies, and a deep passion for Cardano's Proof-of-Stake (PoS) protocol.",
-            "server": "The block producer is located in Mexico, a Cardano node running on arm-based Mac Mini M1. Relay nodes are low-powered computers deployed locally in Mexico, and the United States. This on-grid solar-powered setup was inspired by OTG off-grid stake pool, credits to WCat from the Armada Alliance.",
+            "server": "The block producer is located in Mexico, a Cardano node running on arm-based Mac Mini M1. Relay nodes are low-powered computers deployed locally in Mexico, and the United States. This on-grid solar-powered setup was inspired by OTG off-the-grid stake pool, credits to WCat from the Armada Alliance.",
             "company": ""
         }
     }

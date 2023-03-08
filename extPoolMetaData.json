@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://pool.pm/registry/0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401/544f4b454e/logo.png",
-        "url_png_logo": "https://pool.pm/registry/0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401/544f4b454e/logo.png",
+        "url_png_icon_64x64": "https://github.com/tokenstakepool/metadata/blob/main/logo.png",
+        "url_png_logo": "https://github.com/tokenstakepool/metadata/blob/main/logo.png",
         "location": "Mexico 🇲🇽",
         "social": {
             "twitter_handle": "token_stakepool",

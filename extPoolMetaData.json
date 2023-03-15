@@ -1,7 +1,5 @@
 {
     "info": {
-        "url_png_icon_64x64": "{
-    "info": {
         "url_png_icon_64x64": "https://token.stakepool.cc/wp-content/uploads/2023/03/token64-armadaalliance.png",
         "url_png_logo": "https://token.stakepool.cc/wp-content/uploads/2023/03/token640-armadaalliance.png",
         "location": "Mexico 🇲🇽",
@@ -27,8 +25,7 @@
             "server": "The block producer is located in Mexico, a Cardano node running on arm-based Mac Mini M1. Relay nodes are low-powered computers deployed locally in Mexico, and the United States. This on-grid solar-powered setup was inspired by OTG off-the-grid stake pool, credits to WCat from the Armada Alliance.",
             "company": ""
         }
-    }
-}",
+    },
         "url_png_logo": "https://token.stakepool.cc/wp-content/uploads/2023/03/token640-armada.png",
         "location": "Mexico 🇲🇽",
         "social": {

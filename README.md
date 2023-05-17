@@ -1,2 +1,2 @@
 # metadata
-- Cardano stake pool. Ticker: TOKEN
+- Cardano Token Stake Pool. Ticker: TOKEN

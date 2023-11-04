@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://token.stakepool.cc/wp-content/uploads/2023/03/token64-armadaalliance.png",
+        "url_png_logo": "https://token.stakepool.cc/wp-content/uploads/2023/03/token640-armadaalliance.png",
+        "location": "Mexico 🇲🇽",
+        "social": {
+            "twitter_handle": "token_stakepool",
+            "telegram_handle": "tokenstakepool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "tokenstakepool"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
